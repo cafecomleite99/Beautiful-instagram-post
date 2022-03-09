@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4.185" height="18.346" viewBox="0 0 4.185 18.346">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #262627;
+      }
+    </style>
+  </defs>
+  <g id="Dots" transform="translate(0 18.346) rotate(-90)">
+    <ellipse id="Elipse_3" data-name="Elipse 3" class="cls-1" cx="2.093" cy="2.093" rx="2.093" ry="2.093"/>
+    <ellipse id="Elipse_4" data-name="Elipse 4" class="cls-1" cx="2.093" cy="2.093" rx="2.093" ry="2.093" transform="translate(7.046)"/>
+    <ellipse id="Elipse_5" data-name="Elipse 5" class="cls-1" cx="2.093" cy="2.093" rx="2.093" ry="2.093" transform="translate(14.161)"/>
+  </g>
+</svg>
